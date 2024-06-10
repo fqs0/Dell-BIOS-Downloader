@@ -17,9 +17,8 @@ This script automates the process of downloading the latest BIOS updates for sel
 
 ## Prerequisites
 Ensure you have the following installed on your system:
-Python 3.x
-cabextract utility
-
+- Python 3.x
+- cabextract utility
 
 ## Example Output
 ```yaml
